@@ -1,1 +1,1 @@
-# spam-email-ada-boost-classifier
+ada-boost-classifier
